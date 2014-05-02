@@ -5,7 +5,7 @@ namespace TravisPOC
     [TestFixture]
     public class IntegrationTests
     {
-        //[Test]
+        [Test]
         public void TestThatCalinIsInDb()
         {
             //arrange
@@ -18,7 +18,7 @@ namespace TravisPOC
             Assert.That(result, Is.True);
         }
 
-        //[Test]
+        [Test]
         public void TestThatMihaiIsNotInDb()
         {
             //arrange
