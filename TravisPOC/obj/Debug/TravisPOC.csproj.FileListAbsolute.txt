@@ -1,0 +1,7 @@
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\TravisPOC.exe.config
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\TravisPOC.exe
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\TravisPOC.pdb
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\nunit.framework.dll
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\nunit.framework.xml
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.exe
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.pdb
