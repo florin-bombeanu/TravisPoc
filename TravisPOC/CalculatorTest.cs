@@ -17,7 +17,7 @@ namespace TravisPOC
             var result = calculator.Add(a, b);
 
             //assert
-            Assert.That(result, Is.EqualTo(4));
+            Assert.That(result, Is.EqualTo(3));
         }
     }
 }
