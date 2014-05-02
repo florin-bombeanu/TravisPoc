@@ -1,0 +1,8 @@
+language: c
+ 
+install:
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
+ 
+script:
+  - xbuild TravisPOC.sln
+  - nunit-console ./TravisPOC/bin/Debug/TravisPOC.exe
