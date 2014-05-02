@@ -7,3 +7,12 @@ c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\D
 c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.pdb
 c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\MySql.Data.dll
 c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.csprojResolveAssemblyReference.cache
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\bin\Debug\TravisPOC.exe.config
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\obj\Debug\TravisPOC.exe
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\obj\Debug\TravisPOC.pdb
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\bin\Debug\TravisPOC.exe
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\bin\Debug\TravisPOC.pdb
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\bin\Debug\MySql.Data.dll
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\bin\Debug\nunit.framework.dll
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\bin\Debug\nunit.framework.xml
+C:\Users\florinb\Documents\GitHub\TravisPoc\TravisPOC\obj\Debug\TravisPOC.csprojResolveAssemblyReference.cache

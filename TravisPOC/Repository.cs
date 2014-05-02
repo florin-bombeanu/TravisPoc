@@ -11,7 +11,7 @@ namespace TravisPOC
             const string connectionString = "Server=localhost;Database=travisPoc;Uid=root;";
             using (var connection = new MySqlConnection(connectionString))
             {
-                var command = new MySqlCommand(String.Format("Select * from Users where Name = {0}", name), connection);
+                var command = new MySqlCommand(String.Format("Select * from Users where `Name` = '{0}'", name), connection);
                 connection.Open();
 
                 var ds = new DataSet("set");
