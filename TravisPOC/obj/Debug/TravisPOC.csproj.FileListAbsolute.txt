@@ -5,3 +5,4 @@ c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\D
 c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\bin\Debug\nunit.framework.xml
 c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.exe
 c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.pdb
+c:\users\florinb\documents\visual studio 2012\Projects\TravisPOC\TravisPOC\obj\Debug\TravisPOC.csprojResolveAssemblyReference.cache
